@@ -28,6 +28,11 @@
 
 }
 
+.main-heading {
+  position: absolute;
+  opacity: 0;
+}
+
 .main {
   display: block;
   width: 500px;
